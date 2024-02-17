@@ -84,7 +84,7 @@ function submitinput() {
         excludedLetters = [],
         doubleConsonant = false,
         doubleVowel = false,
-        requiredLength = null
+        requiredLength = NaN
     }) {
     
         const isVowel = char => 'aeiou'.includes(char.toLowerCase());
@@ -107,7 +107,7 @@ function submitinput() {
 
         return wordList.filter(word => {
             // Check for required and excluded letters
-            if (requiredLength !== null && word.length !== requiredLength) return false;
+            if (!isNaN(requiredLength) && word.length !== requiredLength) return false;
             if (requiredLetters.some(letter => !word.includes(letter)) || excludedLetters.some(letter => word.includes(letter))) {
                 return false;
             }
@@ -194,9 +194,7 @@ function submitinput() {
     let forbidden = inputToArr(forbiddenInput)
     // Number of Letters
     let letters = parseInt(lettersInput.value)
-    if (!letters.length) {
-        letters = null
-    }
+    console.log(letters)
     // Wild
     let wild = inputToArr(wildInput)
     for (let letter of wild) {
@@ -210,16 +208,15 @@ function submitinput() {
         }
     }
     // Letter transfer
-    if (transferFrom.value) forbidden.push(transferFrom.value)
-    for (let i = 0; i < playingMat.length; i++) {
-        if (playingMat[i] == transferFrom.value) {
-            playingMat[i] == transferTo.value
+    if (transferFrom.value) {
+        for (let container of [playingMat, resources, required, forbidden]) {
+            for (let i = 0; i < container.length; i++) {
+                if (container[i] === transferFrom.value) {
+                    container[i] = transferTo.value
+                }
+            }
         }
-    }
-    for (let i = 0; i < resources.length; i++) {
-        if (resources[i] == transferFrom.value) {
-            resources[i] == transferTo.value
-        }
+        forbidden.push(transferFrom.value)
     }
     let doubleConsonantActive = doubleConsonantToggle.classList.contains('active')
     let doubleVowelActive = doubleVowelToggle.classList.contains('active')
