@@ -36,7 +36,7 @@ function setInputFilter(textbox, inputFilter) {
 // logTime()
 
 
-const wordList = fullWordList
+const wordList = WORD_LIST
 
 const playingMatInput = document.querySelector('#playing-mat-input')
 const resourcesInput = document.querySelector('#resources-input')
