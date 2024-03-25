@@ -1,4 +1,9 @@
 {
+    "gab": [
+        "gabbed",
+        "gabber",
+        "gabbing"
+    ],
     "gabardine": [
         "gabardine"
     ],
@@ -87,6 +92,10 @@
     "gachupin": [
         "gachupin"
     ],
+    "gad": [
+        "gadded",
+        "gadding"
+    ],
     "gadabout": [
         "gadabout"
     ],
@@ -150,6 +159,10 @@
     "gadzooks": [
         "gadzooks"
     ],
+    "gae": [
+        "gaed",
+        "gaes"
+    ],
     "gaedown": [
         "gaedown"
     ],
@@ -173,6 +186,11 @@
     ],
     "gaffsail": [
         "gaffsail"
+    ],
+    "gag": [
+        "gagged",
+        "gagger",
+        "gagging"
     ],
     "gaga": [
         "gaga"
@@ -901,6 +919,10 @@
         "galyac",
         "galyak"
     ],
+    "gam": [
+        "gammed",
+        "gamming"
+    ],
     "gama": [
         "gama"
     ],
@@ -1397,6 +1419,11 @@
     "gaonic": [
         "gaonic"
     ],
+    "gap": [
+        "gapped",
+        "gapping",
+        "gappy"
+    ],
     "gape": [
         "gape",
         "gaped",
@@ -1771,6 +1798,11 @@
     ],
     "garvie": [
         "garvie"
+    ],
+    "gas": [
+        "gases",
+        "gasses",
+        "gassing"
     ],
     "gasal": [
         "gasal"
@@ -2478,6 +2510,10 @@
         "gawping",
         "gawps"
     ],
+    "gay": [
+        "gayness",
+        "gays"
+    ],
     "gayal": [
         "gayal",
         "gayals"
@@ -2701,6 +2737,10 @@
     "gedunk": [
         "gedunk"
     ],
+    "gee": [
+        "geed",
+        "geeing"
+    ],
     "geebung": [
         "geebung"
     ],
@@ -2791,6 +2831,12 @@
     ],
     "gekkonoid": [
         "gekkonoid"
+    ],
+    "gel": [
+        "gelable",
+        "gelled",
+        "gelling",
+        "gels"
     ],
     "gelastic": [
         "gelastic"
@@ -2895,6 +2941,10 @@
     ],
     "gelt": [
         "gelt"
+    ],
+    "gem": [
+        "gemmed",
+        "gemming"
     ],
     "gematria": [
         "gematria",
@@ -4442,6 +4492,10 @@
     "geswarp": [
         "geswarp"
     ],
+    "get": [
+        "getting",
+        "gittin"
+    ],
     "geta": [
         "geta",
         "getas"
@@ -4821,6 +4875,11 @@
     "giftware": [
         "giftware"
     ],
+    "gig": [
+        "gigged",
+        "gigging",
+        "gigs"
+    ],
     "gigabit": [
         "gigabit"
     ],
@@ -5054,6 +5113,12 @@
         "gimpier",
         "gimpiest",
         "gimpy"
+    ],
+    "gin": [
+        "ginned",
+        "ginner",
+        "ginning",
+        "ginny"
     ],
     "ginep": [
         "ginep"
@@ -7181,6 +7246,12 @@
         "gnotobiotic",
         "gnotobiotically"
     ],
+    "gnu": [
+        "gnus"
+    ],
+    "go": [
+        "goer"
+    ],
     "goad": [
         "goad",
         "goaded",
@@ -7372,6 +7443,11 @@
     ],
     "gochujang": [
         "gochujang"
+    ],
+    "god": [
+        "godded",
+        "godding",
+        "gods"
     ],
     "godchild": [
         "godchild"
@@ -8747,6 +8823,12 @@
         "gowpen",
         "gowpenful",
         "gowpenfuls"
+    ],
+    "goy": [
+        "goyim",
+        "goyish",
+        "goyishness",
+        "goys"
     ],
     "goyazite": [
         "goyazite"
@@ -12503,6 +12585,11 @@
     "guly": [
         "guly"
     ],
+    "gum": [
+        "gummed",
+        "gummer",
+        "gumming"
+    ],
     "gumball": [
         "gumball",
         "gumballs"
@@ -12621,6 +12708,10 @@
     ],
     "gumwood": [
         "gumwood"
+    ],
+    "gun": [
+        "gunned",
+        "gunning"
     ],
     "guna": [
         "guna"
@@ -12960,6 +13051,11 @@
     "gustoso": [
         "gustoso"
     ],
+    "gut": [
+        "guts",
+        "gutted",
+        "gutting"
+    ],
     "gutbucket": [
         "gutbucket"
     ],
@@ -13063,6 +13159,11 @@
     ],
     "gutweed": [
         "gutweed"
+    ],
+    "guy": [
+        "guyed",
+        "guying",
+        "guys"
     ],
     "guyot": [
         "guyot"
@@ -13221,6 +13322,9 @@
     ],
     "gympie": [
         "gympie"
+    ],
+    "gyn": [
+        "gynecol"
     ],
     "gynaecandrous": [
         "gynaecandrous"
@@ -13387,6 +13491,11 @@
     "gyoza": [
         "gyoza",
         "gyozas"
+    ],
+    "gyp": [
+        "gypped",
+        "gypping",
+        "gyps"
     ],
     "gype": [
         "gype"

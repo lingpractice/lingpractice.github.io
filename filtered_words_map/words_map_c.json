@@ -11,6 +11,10 @@
     "caatinga": [
         "caatinga"
     ],
+    "cab": [
+        "cabbed",
+        "cabbing"
+    ],
     "caba": [
         "caba"
     ],
@@ -2417,6 +2421,12 @@
     "camwood": [
         "camwood"
     ],
+    "can": [
+        "canful",
+        "canner",
+        "canning",
+        "cans"
+    ],
     "canacuas": [
         "canacuas"
     ],
@@ -3393,6 +3403,9 @@
     ],
     "caoutchouc": [
         "caoutchouc"
+    ],
+    "cap": [
+        "capped"
     ],
     "capa": [
         "capa"
@@ -6398,6 +6411,10 @@
     "caswellite": [
         "caswellite"
     ],
+    "cat": [
+        "catted",
+        "catting"
+    ],
     "catabaptist": [
         "catabaptist"
     ],
@@ -7714,6 +7731,11 @@
     ],
     "cavyyard": [
         "cavyyard"
+    ],
+    "caw": [
+        "cawed",
+        "cawing",
+        "caws"
     ],
     "cawdie": [
         "cawdie"
@@ -20553,6 +20575,9 @@
     "cocuswood": [
         "cocuswood"
     ],
+    "cod": [
+        "cods"
+    ],
     "coda": [
         "coda"
     ],
@@ -21128,6 +21153,10 @@
     "cofunction": [
         "cofunction"
     ],
+    "cog": [
+        "cogged",
+        "cogging"
+    ],
     "cogency": [
         "cogency"
     ],
@@ -21580,6 +21609,9 @@
     ],
     "coky": [
         "coky"
+    ],
+    "col": [
+        "coll"
     ],
     "cola": [
         "cola"
@@ -24858,6 +24890,10 @@
     "comunidad": [
         "comunidad",
         "comunidades"
+    ],
+    "con": [
+        "conned",
+        "conning"
     ],
     "conacaste": [
         "conacaste"
@@ -29254,6 +29290,11 @@
     "conyrine": [
         "conyrine"
     ],
+    "coo": [
+        "cooed",
+        "cooing",
+        "coos"
+    ],
     "coob": [
         "coob"
     ],
@@ -29528,6 +29569,11 @@
     "cootie": [
         "cootie",
         "cooties"
+    ],
+    "cop": [
+        "copped",
+        "copping",
+        "cops"
     ],
     "copa": [
         "copa"
@@ -33607,6 +33653,13 @@
         "covinous",
         "covinously"
     ],
+    "cow": [
+        "cowed",
+        "cowedly",
+        "cowing",
+        "cows",
+        "cowy"
+    ],
     "cowhage": [
         "cowage",
         "cowhage"
@@ -33820,6 +33873,12 @@
     "cowwheat": [
         "cowwheat"
     ],
+    "cox": [
+        "coxed",
+        "coxes",
+        "coxing",
+        "coxless"
+    ],
     "coxa": [
         "coxa",
         "coxae",
@@ -33853,6 +33912,13 @@
         "coxswained",
         "coxswaining",
         "coxswains"
+    ],
+    "coy": [
+        "coyed",
+        "coying",
+        "coyly",
+        "coyness",
+        "coys"
     ],
     "coydog": [
         "coydog"
@@ -35426,6 +35492,10 @@
     ],
     "cricoid": [
         "cricoid"
+    ],
+    "cry": [
+        "cried",
+        "cries"
     ],
     "crier": [
         "crier"
@@ -37686,6 +37756,11 @@
     "cudweed": [
         "cudweed"
     ],
+    "cue": [
+        "cued",
+        "cueing",
+        "cuing"
+    ],
     "cueca": [
         "cueca"
     ],
@@ -38236,6 +38311,10 @@
     ],
     "cuorin": [
         "cuorin"
+    ],
+    "cup": [
+        "cuplike",
+        "cupped"
     ],
     "cupalo": [
         "cupalo"
@@ -40136,6 +40215,9 @@
     ],
     "cynthiid": [
         "cynthiid"
+    ],
+    "cyp": [
+        "cypre"
     ],
     "cyphella": [
         "cyphella",

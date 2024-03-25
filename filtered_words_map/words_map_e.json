@@ -36,6 +36,9 @@
     "eanling": [
         "eanling"
     ],
+    "ear": [
+        "ears"
+    ],
     "earache": [
         "earache"
     ],
@@ -436,6 +439,12 @@
     "easylike": [
         "easylike"
     ],
+    "eat": [
+        "eaten",
+        "eater",
+        "eaters",
+        "eats"
+    ],
     "eatable": [
         "eatable",
         "eatables"
@@ -457,6 +466,9 @@
     "eating": [
         "eating"
     ],
+    "eau": [
+        "eaux"
+    ],
     "eave": [
         "eave"
     ],
@@ -471,6 +483,11 @@
     ],
     "eavesdropping": [
         "eavesdropping"
+    ],
+    "ebb": [
+        "ebbed",
+        "ebbing",
+        "ebbs"
     ],
     "ebbet": [
         "ebbet"
@@ -1222,6 +1239,9 @@
     "ectype": [
         "ectype"
     ],
+    "ecu": [
+        "ecus"
+    ],
     "ecuelle": [
         "ecuelle"
     ],
@@ -1546,6 +1566,12 @@
     "eebree": [
         "eebree"
     ],
+    "eel": [
+        "eeled",
+        "eellike",
+        "eels",
+        "eely"
+    ],
     "eelboat": [
         "eelboat"
     ],
@@ -1591,6 +1617,9 @@
     ],
     "eerily": [
         "eerily"
+    ],
+    "eff": [
+        "effs"
     ],
     "effable": [
         "effable"
@@ -1867,6 +1896,13 @@
     "egesta": [
         "egesta"
     ],
+    "egg": [
+        "egged",
+        "egging",
+        "eggless",
+        "eggs",
+        "eggy"
+    ],
     "eggar": [
         "eggar"
     ],
@@ -1935,6 +1971,10 @@
     ],
     "eglomise": [
         "eglomise"
+    ],
+    "ego": [
+        "egoless",
+        "egos"
     ],
     "egocentric": [
         "egocentric",
@@ -2201,6 +2241,10 @@
     ],
     "ekdemite": [
         "ekdemite"
+    ],
+    "eke": [
+        "eked",
+        "eking"
     ],
     "ekename": [
         "ekename"
@@ -3138,6 +3182,10 @@
     "elevon": [
         "elevon"
     ],
+    "elf": [
+        "elfish",
+        "elfishly"
+    ],
     "elfin": [
         "elfin"
     ],
@@ -3244,6 +3292,9 @@
     ],
     "elixirate": [
         "elixirate"
+    ],
+    "elk": [
+        "elks"
     ],
     "elkhound": [
         "elkhound"
@@ -4935,6 +4986,9 @@
     "enbrave": [
         "enbrave"
     ],
+    "enc": [
+        "encl"
+    ],
     "encaenia": [
         "encaenia"
     ],
@@ -5399,6 +5453,10 @@
         "encysting",
         "encystment",
         "encysts"
+    ],
+    "end": [
+        "ended",
+        "ends"
     ],
     "endamage": [
         "endamage",
@@ -10200,6 +10258,11 @@
     ],
     "erotylid": [
         "erotylid"
+    ],
+    "err": [
+        "erred",
+        "erring",
+        "errs"
     ],
     "errability": [
         "errability"
@@ -16100,6 +16163,13 @@
     ],
     "eyas": [
         "eyas"
+    ],
+    "eye": [
+        "eyeing",
+        "eyeless",
+        "eyelike",
+        "eyer",
+        "eying"
     ],
     "eyeable": [
         "eyeable"

@@ -11,8 +11,10 @@ if not os.path.exists(target_directory):
     os.makedirs(target_directory)
 
 # Function to check if a string contains only lowercase alphabetic characters and is greater than 4 letters long
-def is_valid(s):
+def is_valid1(s):
     return re.fullmatch(r'[a-z]{4,}', s) is not None
+def is_valid2(s):
+    return re.fullmatch(r'[a-z]+', s) is not None
 
 # Iterate through each file in the source directory
 for filename in os.listdir(source_directory):
@@ -26,8 +28,8 @@ for filename in os.listdir(source_directory):
         
         # Filter the words map
         filtered_words_map = {
-            key: [word for word in value if is_valid(word)]
-            for key, value in words_map.items() if is_valid(key)
+            key: [word for word in value if is_valid1(word)]
+            for key, value in words_map.items() if is_valid2(key)
         }
         
         # Remove keys with empty lists after filtering

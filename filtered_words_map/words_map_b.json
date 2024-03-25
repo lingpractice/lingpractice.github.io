@@ -1,4 +1,8 @@
 {
+    "baa": [
+        "baaed",
+        "baaing"
+    ],
     "baal": [
         "baal",
         "baalim",
@@ -1002,6 +1006,11 @@
         "bacury",
         "bakuris"
     ],
+    "bad": [
+        "badder",
+        "baddest",
+        "badness"
+    ],
     "badak": [
         "badak"
     ],
@@ -1148,6 +1157,10 @@
     ],
     "baft": [
         "baft"
+    ],
+    "bag": [
+        "bagged",
+        "baggers"
     ],
     "bagac": [
         "bagac"
@@ -2208,6 +2221,11 @@
     ],
     "bamoth": [
         "bamoth"
+    ],
+    "ban": [
+        "banned",
+        "banning",
+        "bans"
     ],
     "banak": [
         "banak"
@@ -4237,6 +4255,9 @@
         "basural",
         "basurales"
     ],
+    "bat": [
+        "batted"
+    ],
     "bataleur": [
         "bataleur"
     ],
@@ -4806,6 +4827,11 @@
     "bawneen": [
         "bawneen"
     ],
+    "bay": [
+        "bayed",
+        "baying",
+        "bays"
+    ],
     "baya": [
         "baya"
     ],
@@ -4909,6 +4935,9 @@
     "bdelloid": [
         "bdelloid",
         "bdelloids"
+    ],
+    "bdl": [
+        "bdle"
     ],
     "bdrm": [
         "bdrm"
@@ -5861,6 +5890,9 @@
     "bedworthy": [
         "bedworthy"
     ],
+    "bee": [
+        "beelike"
+    ],
     "beeball": [
         "beeball"
     ],
@@ -6166,6 +6198,10 @@
     ],
     "befurred": [
         "befurred"
+    ],
+    "beg": [
+        "begged",
+        "begging"
     ],
     "begad": [
         "begad"
@@ -8116,6 +8152,10 @@
     "besuited": [
         "besuited"
     ],
+    "bet": [
+        "betted",
+        "betting"
+    ],
     "beta": [
         "beta",
         "betas"
@@ -8684,6 +8724,12 @@
         "biaxial",
         "biaxially"
     ],
+    "bib": [
+        "bibbed",
+        "bibbing",
+        "bibless",
+        "bibs"
+    ],
     "bibacious": [
         "bibacious"
     ],
@@ -9102,6 +9148,11 @@
     "bicylindrical": [
         "bicylindrical"
     ],
+    "bid": [
+        "bidden",
+        "bidder",
+        "bidding"
+    ],
     "bidactyl": [
         "bidactyl",
         "bidactyle",
@@ -9319,6 +9370,12 @@
     ],
     "bifurcation": [
         "bifurcation"
+    ],
+    "big": [
+        "bigger",
+        "biggest",
+        "bigly",
+        "bigness"
     ],
     "biga": [
         "biga",
@@ -9944,6 +10001,11 @@
     "bimuscular": [
         "bimuscular"
     ],
+    "bin": [
+        "binned",
+        "binning",
+        "bins"
+    ],
     "bina": [
         "bina"
     ],
@@ -10128,6 +10190,9 @@
     ],
     "binucleate": [
         "binucleate"
+    ],
+    "bio": [
+        "bios"
     ],
     "bioabsorbable": [
         "bioabsorbable"
@@ -11600,6 +11665,11 @@
     ],
     "bisynchronous": [
         "bisynchronous"
+    ],
+    "bit": [
+        "bits",
+        "bitted",
+        "bitting"
     ],
     "bitable": [
         "bitable"
@@ -14212,6 +14282,10 @@
     "boatyard": [
         "boatyard"
     ],
+    "bob": [
+        "bobbed",
+        "bobbing"
+    ],
     "boba": [
         "boba"
     ],
@@ -14552,6 +14626,10 @@
     ],
     "boffola": [
         "boffola"
+    ],
+    "bog": [
+        "bogged",
+        "bogging"
     ],
     "bogach": [
         "bogach",
@@ -14947,6 +15025,9 @@
     "bolus": [
         "bolus",
         "boluses"
+    ],
+    "bom": [
+        "boma"
     ],
     "bomb": [
         "bomb",
@@ -15350,6 +15431,11 @@
     ],
     "bonze": [
         "bonze"
+    ],
+    "boo": [
+        "booed",
+        "booing",
+        "boos"
     ],
     "boob": [
         "boob",
@@ -15805,6 +15891,11 @@
     "boozer": [
         "boozer"
     ],
+    "bop": [
+        "bopped",
+        "bopper",
+        "bopping"
+    ],
     "bopeep": [
         "bopeep"
     ],
@@ -16183,6 +16274,9 @@
     ],
     "bosun": [
         "bosun"
+    ],
+    "bot": [
+        "bott"
     ],
     "bota": [
         "bota"
@@ -16806,6 +16900,9 @@
     "bovoid": [
         "bovoid"
     ],
+    "bow": [
+        "bows"
+    ],
     "bowdarc": [
         "bowdarc",
         "bowdark"
@@ -16989,6 +17086,12 @@
     "bowyer": [
         "bowyer"
     ],
+    "box": [
+        "boxes",
+        "boxful",
+        "boxfuls",
+        "boxlike"
+    ],
     "boxberry": [
         "boxberry"
     ],
@@ -17054,6 +17157,13 @@
     "boxwork": [
         "boxwork"
     ],
+    "boy": [
+        "boyhood",
+        "boyish",
+        "boyishly",
+        "boyishness",
+        "boys"
+    ],
     "boyar": [
         "boyar",
         "boyard"
@@ -17101,6 +17211,9 @@
     "bozzetto": [
         "bozzetti",
         "bozzetto"
+    ],
+    "bra": [
+        "braless"
     ],
     "brabble": [
         "brabble",
@@ -20692,6 +20805,10 @@
         "bucrania",
         "bucranium"
     ],
+    "bud": [
+        "budded",
+        "budder"
+    ],
     "budbreak": [
         "budbreak"
     ],
@@ -20864,6 +20981,11 @@
     ],
     "bufonite": [
         "bufonite"
+    ],
+    "bug": [
+        "bugged",
+        "bugging",
+        "bugs"
     ],
     "bugaboo": [
         "bugaboo",
@@ -21411,6 +21533,10 @@
         "bulwarking",
         "bulwarks"
     ],
+    "bum": [
+        "bumming",
+        "bums"
+    ],
     "bumbailiff": [
         "bumbailiff"
     ],
@@ -21562,6 +21688,9 @@
     ],
     "bumwood": [
         "bumwood"
+    ],
+    "bun": [
+        "buns"
     ],
     "buna": [
         "buna"
@@ -22347,6 +22476,13 @@
     "burweed": [
         "burweed"
     ],
+    "bus": [
+        "bused",
+        "buses",
+        "bussed",
+        "busses",
+        "bussing"
+    ],
     "busby": [
         "busbies",
         "busby"
@@ -22990,6 +23126,9 @@
         "buxomly",
         "buxomness"
     ],
+    "buy": [
+        "buying"
+    ],
     "buyback": [
         "buyback"
     ],
@@ -23031,6 +23170,9 @@
     ],
     "bwana": [
         "bwana"
+    ],
+    "by": [
+        "byes"
     ],
     "bycatch": [
         "bycatch"

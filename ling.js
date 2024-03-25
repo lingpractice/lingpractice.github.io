@@ -1,3 +1,36 @@
+// Experimenting with servers
+
+
+// fetch('/word/elementary')
+fetch('http://127.0.0.1:3000/word/elementary')
+.then(response => response.json())
+.then(data => {
+
+    console.log(data)
+
+    // data.forEach(item => {
+    //     // Basic info
+    //     const element = document.createElement('div');
+    //     element.innerHTML = `<strong>Word:</strong> ${item.id || item.meta.id} <br>
+    //                             <strong>Offensive:</strong> ${item.offensive || item.meta.offensive} <br>
+    //                             <strong>Parts of Speech:</strong> ${item.parts_of_speech || item.fl} <br>`;
+
+    //     // Definitions, if available
+    //     if (item.def) {
+    //         const definitions = item.def[0].sseq.map(defItem => {
+    //             const dt = defItem[0].dt[0][1].map(dtPart => dtPart[1]).join('');
+    //             return `<li>${dt}</li>`;
+    //         }).join('');
+    //         element.innerHTML += `<ul>${definitions}</ul>`;
+    //     }
+
+    //     displayArea.appendChild(element);
+    // });
+})
+.catch(error => console.error('Error fetching data:', error));
+
+
+
 
 let setTimer = new Date();
 function logTime(message = "") {

@@ -182,6 +182,9 @@
     "sabzi": [
         "sabzi"
     ],
+    "sac": [
+        "saclike"
+    ],
     "sacahuiste": [
         "sacahuista",
         "sacahuiste"
@@ -501,6 +504,11 @@
     "sacrotuberous": [
         "sacrotuberous"
     ],
+    "sad": [
+        "sadder",
+        "saddest",
+        "sadness"
+    ],
     "sadden": [
         "sadden",
         "saddened",
@@ -705,6 +713,10 @@
     ],
     "saft": [
         "saft"
+    ],
+    "sag": [
+        "sagged",
+        "sagging"
     ],
     "saga": [
         "saga"
@@ -2616,6 +2628,12 @@
     "sanvitalia": [
         "sanvitalia"
     ],
+    "sap": [
+        "sapless",
+        "saplessness",
+        "sapped",
+        "sapping"
+    ],
     "sapa": [
         "sapa"
     ],
@@ -3865,6 +3883,13 @@
         "savvy",
         "savvying"
     ],
+    "saw": [
+        "sawed",
+        "sawer",
+        "sawing",
+        "sawlike",
+        "sawn"
+    ],
     "sawah": [
         "sawah"
     ],
@@ -3955,6 +3980,9 @@
     "sawyer": [
         "sawyer"
     ],
+    "sax": [
+        "saxes"
+    ],
     "saxatile": [
         "saxatile"
     ],
@@ -4005,6 +4033,10 @@
     ],
     "saxtuba": [
         "saxtuba"
+    ],
+    "say": [
+        "sayer",
+        "says"
     ],
     "saya": [
         "saya"
@@ -9120,6 +9152,9 @@
     "sedum": [
         "sedum"
     ],
+    "see": [
+        "seeable"
+    ],
     "seecatch": [
         "seecatch",
         "seecatchie"
@@ -9311,6 +9346,9 @@
     ],
     "seething": [
         "seething"
+    ],
+    "seg": [
+        "segg"
     ],
     "segar": [
         "segar"
@@ -12583,6 +12621,9 @@
     "sesunc": [
         "sesunc"
     ],
+    "set": [
+        "sets"
+    ],
     "seta": [
         "seta",
         "setae",
@@ -12832,6 +12873,12 @@
     "sevum": [
         "sevum"
     ],
+    "sew": [
+        "sewability",
+        "sewable",
+        "sewed",
+        "sewn"
+    ],
     "sewage": [
         "sewage"
     ],
@@ -12862,6 +12909,10 @@
     ],
     "sewster": [
         "sewster"
+    ],
+    "sex": [
+        "sexes",
+        "sexing"
     ],
     "sexadecimal": [
         "sexadecimal"
@@ -14708,6 +14759,15 @@
     ],
     "shicksa": [
         "shicksa"
+    ],
+    "shy": [
+        "shied",
+        "shies",
+        "shyer",
+        "shyest",
+        "shying",
+        "shyly",
+        "shyness"
     ],
     "shiel": [
         "shiel"
@@ -16658,6 +16718,12 @@
         "sibyllic",
         "sibylline"
     ],
+    "sic": [
+        "sicced",
+        "siccing",
+        "sicked",
+        "sicking"
+    ],
     "sicarius": [
         "sicarii",
         "sicarius"
@@ -18190,6 +18256,10 @@
     "simvastatin": [
         "simvastatin"
     ],
+    "sin": [
+        "sinned",
+        "sinning"
+    ],
     "sinaite": [
         "sinaite"
     ],
@@ -18586,6 +18656,12 @@
     ],
     "sinward": [
         "sinward"
+    ],
+    "sip": [
+        "sipped",
+        "sipper",
+        "sipping",
+        "sips"
     ],
     "sipapu": [
         "sipapu"
@@ -19524,6 +19600,12 @@
     "skhian": [
         "skhian"
     ],
+    "ski": [
+        "skiable",
+        "skied",
+        "skier",
+        "skis"
+    ],
     "skiagram": [
         "skiagram"
     ],
@@ -19589,6 +19671,11 @@
     ],
     "skie": [
         "skie"
+    ],
+    "sky": [
+        "skies",
+        "skyed",
+        "skying"
     ],
     "skiey": [
         "skiey"
@@ -20960,6 +21047,13 @@
     ],
     "slighty": [
         "slighty"
+    ],
+    "sly": [
+        "slily",
+        "slyer",
+        "slyest",
+        "slyly",
+        "slyness"
     ],
     "slim": [
         "slim",
@@ -23606,6 +23700,10 @@
     "soavemente": [
         "soavemente"
     ],
+    "sob": [
+        "sobbed",
+        "sobbing"
+    ],
     "soba": [
         "soba"
     ],
@@ -23943,6 +24041,11 @@
     "socy": [
         "socy"
     ],
+    "sod": [
+        "sodded",
+        "sodding",
+        "sods"
+    ],
     "soda": [
         "soda"
     ],
@@ -24090,6 +24193,10 @@
     "softwood": [
         "softwood"
     ],
+    "sog": [
+        "sogged",
+        "sogs"
+    ],
     "soggarth": [
         "soggarth"
     ],
@@ -24102,6 +24209,9 @@
     ],
     "sogging": [
         "sogging"
+    ],
+    "soh": [
+        "sohs"
     ],
     "soia": [
         "soia"
@@ -25090,6 +25200,9 @@
     "somoni": [
         "somoni"
     ],
+    "son": [
+        "sonhood"
+    ],
     "sonable": [
         "sonable"
     ],
@@ -25398,6 +25511,9 @@
     ],
     "sootlike": [
         "sootlike"
+    ],
+    "sop": [
+        "sopped"
     ],
     "sopaipilla": [
         "sopaipilla",
@@ -25810,6 +25926,9 @@
         "sottishly",
         "sottishness"
     ],
+    "sou": [
+        "sous"
+    ],
     "souari": [
         "souari"
     ],
@@ -26216,6 +26335,11 @@
     "sovs": [
         "sovs"
     ],
+    "sow": [
+        "sowed",
+        "sowing",
+        "sown"
+    ],
     "sowable": [
         "sowable"
     ],
@@ -26261,6 +26385,9 @@
     ],
     "sowre": [
         "sowre"
+    ],
+    "soy": [
+        "soya"
     ],
     "soybean": [
         "soybean"
@@ -28421,6 +28548,11 @@
     ],
     "spie": [
         "spie"
+    ],
+    "spy": [
+        "spied",
+        "spies",
+        "spying"
     ],
     "spiedino": [
         "spiedini",
@@ -34476,6 +34608,14 @@
     "stie": [
         "stie"
     ],
+    "sty": [
+        "stied",
+        "sties",
+        "stye",
+        "styed",
+        "styes",
+        "stying"
+    ],
     "stieve": [
         "stieve"
     ],
@@ -38118,6 +38258,10 @@
         "suavest",
         "suavity"
     ],
+    "sub": [
+        "subbed",
+        "subbing"
+    ],
     "subabdominal": [
         "subabdominal"
     ],
@@ -41401,6 +41545,11 @@
         "sudsiest",
         "sudsy"
     ],
+    "sue": [
+        "sued",
+        "suer",
+        "suing"
+    ],
     "suede": [
         "suede",
         "sueded",
@@ -42071,6 +42220,13 @@
     "sulze": [
         "sulze"
     ],
+    "sum": [
+        "summability",
+        "summable",
+        "summed",
+        "summing",
+        "sums"
+    ],
     "sumac": [
         "sumac",
         "sumach"
@@ -42276,6 +42432,10 @@
         "sumptuous",
         "sumptuously",
         "sumptuousness"
+    ],
+    "sun": [
+        "sunned",
+        "sunning"
     ],
     "sunback": [
         "sunback"
@@ -42598,6 +42758,10 @@
     ],
     "sunyata": [
         "sunyata"
+    ],
+    "sup": [
+        "supped",
+        "supping"
     ],
     "supa": [
         "supa"
@@ -46549,6 +46713,9 @@
     ],
     "syke": [
         "syke"
+    ],
+    "syl": [
+        "syll"
     ],
     "syli": [
         "syli",

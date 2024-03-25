@@ -971,6 +971,10 @@
     "rafty": [
         "rafty"
     ],
+    "rag": [
+        "ragging",
+        "rags"
+    ],
     "raga": [
         "raga"
     ],
@@ -1460,6 +1464,11 @@
     ],
     "ralstonite": [
         "ralstonite"
+    ],
+    "ram": [
+        "rammed",
+        "rammer",
+        "ramming"
     ],
     "ramack": [
         "ramack"
@@ -2036,6 +2045,11 @@
     "raoulia": [
         "raoulia"
     ],
+    "rap": [
+        "rapped",
+        "rapping",
+        "raps"
+    ],
     "rapacious": [
         "rapacious",
         "rapaciously",
@@ -2363,6 +2377,11 @@
     ],
     "rasure": [
         "rasure"
+    ],
+    "rat": [
+        "ratlike",
+        "ratted",
+        "ratting"
     ],
     "rata": [
         "rata"
@@ -2810,6 +2829,12 @@
     "ravison": [
         "ravison"
     ],
+    "raw": [
+        "rawer",
+        "rawest",
+        "rawly",
+        "rawness"
+    ],
     "rawbone": [
         "rawbone"
     ],
@@ -2842,6 +2867,16 @@
     ],
     "rawn": [
         "rawn"
+    ],
+    "rax": [
+        "raxed",
+        "raxes",
+        "raxing"
+    ],
+    "ray": [
+        "rayed",
+        "raying",
+        "rays"
     ],
     "raya": [
         "raya",
@@ -5796,6 +5831,11 @@
         "recycler",
         "recycles",
         "recycling"
+    ],
+    "red": [
+        "redder",
+        "reddest",
+        "reds"
     ],
     "redact": [
         "redact",
@@ -13036,6 +13076,10 @@
         "resynthesized",
         "resynthesizing"
     ],
+    "ret": [
+        "retted",
+        "retting"
+    ],
     "retable": [
         "retable"
     ],
@@ -14773,6 +14817,9 @@
         "rewritten",
         "rewrote"
     ],
+    "rex": [
+        "rexes"
+    ],
     "rexine": [
         "rexine"
     ],
@@ -14784,6 +14831,9 @@
     ],
     "reyouth": [
         "reyouth"
+    ],
+    "rez": [
+        "rezzes"
     ],
     "rezai": [
         "rezai"
@@ -15625,6 +15675,9 @@
     "riata": [
         "riata"
     ],
+    "rib": [
+        "ribbed"
+    ],
     "ribald": [
         "ribald"
     ],
@@ -15900,6 +15953,10 @@
     ],
     "rictus": [
         "rictus"
+    ],
+    "rid": [
+        "ridded",
+        "ridding"
     ],
     "ridability": [
         "ridability"
@@ -16324,6 +16381,10 @@
     ],
     "rillstone": [
         "rillstone"
+    ],
+    "rim": [
+        "rimless",
+        "rimming"
     ],
     "rimas": [
         "rimas"
@@ -17236,6 +17297,11 @@
         "roat",
         "roate"
     ],
+    "rob": [
+        "robbed",
+        "robber",
+        "robbing"
+    ],
     "robalo": [
         "robalo",
         "robalos"
@@ -17510,6 +17576,10 @@
     "rocou": [
         "rocou"
     ],
+    "rod": [
+        "rodless",
+        "rodlike"
+    ],
     "rodder": [
         "rodder"
     ],
@@ -17559,6 +17629,9 @@
     ],
     "rodster": [
         "rodster"
+    ],
+    "roe": [
+        "roes"
     ],
     "roeblingite": [
         "roeblingite"
@@ -18556,6 +18629,10 @@
     "rosulate": [
         "rosulate"
     ],
+    "rot": [
+        "rotted",
+        "rotting"
+    ],
     "rota": [
         "rota"
     ],
@@ -19105,6 +19182,11 @@
     "roving": [
         "roving"
     ],
+    "row": [
+        "rowed",
+        "rower",
+        "rows"
+    ],
     "rowable": [
         "rowable"
     ],
@@ -19226,6 +19308,9 @@
     ],
     "ruana": [
         "ruana"
+    ],
+    "rub": [
+        "rubbed"
     ],
     "ruban": [
         "ruban"
@@ -19457,6 +19542,11 @@
     "ructious": [
         "ructious"
     ],
+    "rud": [
+        "rudded",
+        "rudding",
+        "rudds"
+    ],
     "rudas": [
         "rudas"
     ],
@@ -19551,6 +19641,10 @@
     ],
     "ruds": [
         "ruds"
+    ],
+    "rue": [
+        "rued",
+        "ruing"
     ],
     "rueful": [
         "rueful",
@@ -19734,6 +19828,9 @@
     "ruly": [
         "ruly"
     ],
+    "rum": [
+        "rummest"
+    ],
     "rumal": [
         "rumal"
     ],
@@ -19898,6 +19995,10 @@
     ],
     "rumshop": [
         "rumshop"
+    ],
+    "run": [
+        "runless",
+        "runs"
     ],
     "runabout": [
         "runabout"
@@ -20221,6 +20322,10 @@
     ],
     "ruswut": [
         "ruswut"
+    ],
+    "rut": [
+        "rutted",
+        "rutting"
     ],
     "rutab": [
         "rutab"

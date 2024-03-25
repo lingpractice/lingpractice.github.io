@@ -239,6 +239,9 @@
         "paction",
         "pactional"
     ],
+    "pad": [
+        "padded"
+    ],
     "padauk": [
         "padauk"
     ],
@@ -722,6 +725,11 @@
     ],
     "paktong": [
         "paktong"
+    ],
+    "pal": [
+        "palled",
+        "palling",
+        "palship"
     ],
     "pala": [
         "pala"
@@ -1841,6 +1849,10 @@
     "palynomorph": [
         "palynomorph"
     ],
+    "pam": [
+        "pammed",
+        "pamming"
+    ],
     "pamakani": [
         "pamakani"
     ],
@@ -1912,6 +1924,10 @@
     ],
     "pams": [
         "pams"
+    ],
+    "pan": [
+        "panned",
+        "panning"
     ],
     "panace": [
         "panace"
@@ -3030,6 +3046,10 @@
     "papyrology": [
         "papyrologist",
         "papyrology"
+    ],
+    "par": [
+        "parred",
+        "parring"
     ],
     "para": [
         "para",
@@ -5847,6 +5867,10 @@
     "pasul": [
         "pasul"
     ],
+    "pat": [
+        "patted",
+        "patting"
+    ],
     "pataca": [
         "pataca"
     ],
@@ -6731,6 +6755,11 @@
     "pavonite": [
         "pavonite"
     ],
+    "paw": [
+        "pawed",
+        "pawing",
+        "paws"
+    ],
     "pawkery": [
         "pawkery"
     ],
@@ -6798,6 +6827,10 @@
     "paxwax": [
         "paxwax",
         "paxywaxy"
+    ],
+    "pay": [
+        "payed",
+        "paying"
     ],
     "payability": [
         "payability"
@@ -6902,6 +6935,10 @@
     ],
     "pcpn": [
         "pcpn"
+    ],
+    "pea": [
+        "peas",
+        "pease"
     ],
     "peaberry": [
         "peaberry"
@@ -7209,6 +7246,9 @@
     ],
     "pebbleware": [
         "pebbleware"
+    ],
+    "pec": [
+        "pecs"
     ],
     "pecan": [
         "pecan"
@@ -7760,6 +7800,10 @@
         "pedunculi",
         "pedunculus"
     ],
+    "pee": [
+        "peed",
+        "peeing"
+    ],
     "peek": [
         "peek",
         "peeked",
@@ -7884,6 +7928,10 @@
     ],
     "peff": [
         "peff"
+    ],
+    "peg": [
+        "pegged",
+        "pegging"
     ],
     "pega": [
         "pega",
@@ -8258,6 +8306,10 @@
     ],
     "pemphigus": [
         "pemphigus"
+    ],
+    "pen": [
+        "penned",
+        "penning"
     ],
     "penaea": [
         "penaea"
@@ -9190,6 +9242,10 @@
     ],
     "peoplish": [
         "peoplish"
+    ],
+    "pep": [
+        "pepped",
+        "pepping"
     ],
     "peperek": [
         "peperek"
@@ -11742,6 +11798,11 @@
     ],
     "pestology": [
         "pestology"
+    ],
+    "pet": [
+        "petted",
+        "petter",
+        "petting"
     ],
     "petaflop": [
         "petaflop",
@@ -15966,6 +16027,9 @@
     "pibroch": [
         "pibroch"
     ],
+    "pic": [
+        "pics"
+    ],
     "pica": [
         "pica"
     ],
@@ -16649,6 +16713,11 @@
     "piffling": [
         "piffling"
     ],
+    "pig": [
+        "pigged",
+        "pigging",
+        "piglike"
+    ],
     "pigboat": [
         "pigboat"
     ],
@@ -17291,6 +17360,11 @@
     "pimpmobile": [
         "pimpmobile"
     ],
+    "pin": [
+        "pinned",
+        "pinning",
+        "pins"
+    ],
     "pina": [
         "pina"
     ],
@@ -17926,6 +18000,10 @@
         "piously",
         "piousness"
     ],
+    "pip": [
+        "pipped",
+        "pipping"
+    ],
     "pipa": [
         "pipa"
     ],
@@ -18418,6 +18496,9 @@
     ],
     "pistou": [
         "pistou"
+    ],
+    "pit": [
+        "pits"
     ],
     "pita": [
         "pita"
@@ -20844,6 +20925,11 @@
     "plicature": [
         "plicature"
     ],
+    "ply": [
+        "plied",
+        "plies",
+        "plying"
+    ],
     "pliers": [
         "pliers"
     ],
@@ -21910,6 +21996,11 @@
     "pocosin": [
         "pocosin"
     ],
+    "pod": [
+        "podded",
+        "podding",
+        "pods"
+    ],
     "podagra": [
         "podagra"
     ],
@@ -22225,6 +22316,9 @@
     ],
     "pohutukawa": [
         "pohutukawa"
+    ],
+    "poi": [
+        "pois"
     ],
     "poignance": [
         "poignance"
@@ -24773,6 +24867,11 @@
     "ponzu": [
         "ponzu"
     ],
+    "poo": [
+        "pooed",
+        "pooing",
+        "poos"
+    ],
     "pooch": [
         "pooch",
         "pooched",
@@ -24900,6 +24999,11 @@
     ],
     "poot": [
         "poot"
+    ],
+    "pop": [
+        "popped",
+        "popping",
+        "pops"
     ],
     "popadam": [
         "popadam",
@@ -26888,6 +26992,9 @@
     "postzygapophysis": [
         "postzygapophysis"
     ],
+    "pot": [
+        "potting"
+    ],
     "potable": [
         "potability",
         "potable",
@@ -27548,6 +27655,12 @@
         "powwowed",
         "powwowing",
         "powwows"
+    ],
+    "pox": [
+        "poxed",
+        "poxes",
+        "poxing",
+        "poxy"
     ],
     "poxvirus": [
         "poxvirus"
@@ -32088,6 +32201,9 @@
     ],
     "prie": [
         "prie"
+    ],
+    "pry": [
+        "pried"
     ],
     "prier": [
         "prier"
@@ -38830,6 +38946,10 @@
     "puffingly": [
         "puffingly"
     ],
+    "pug": [
+        "pugged",
+        "pugging"
+    ],
     "puggaree": [
         "pugaree",
         "puggaree",
@@ -38930,6 +39050,9 @@
     ],
     "puku": [
         "puku"
+    ],
+    "pul": [
+        "puls"
     ],
     "pula": [
         "pula"
@@ -39387,6 +39510,10 @@
         "pumpman",
         "pumpmen"
     ],
+    "pun": [
+        "punned",
+        "punning"
+    ],
     "puna": [
         "puna"
     ],
@@ -39718,6 +39845,10 @@
     ],
     "punya": [
         "punya"
+    ],
+    "pup": [
+        "pupped",
+        "pupping"
     ],
     "pupa": [
         "pupa",
@@ -40421,6 +40552,9 @@
     "puszta": [
         "puszta"
     ],
+    "put": [
+        "putting"
+    ],
     "putamen": [
         "putamen"
     ],
@@ -40598,6 +40732,11 @@
     "puzzolan": [
         "puzzolan",
         "puzzolana"
+    ],
+    "pwn": [
+        "pwned",
+        "pwning",
+        "pwns"
     ],
     "pyal": [
         "pyal"

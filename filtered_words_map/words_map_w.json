@@ -55,6 +55,10 @@
     "wacko": [
         "wacko"
     ],
+    "wad": [
+        "wadded",
+        "wadder"
+    ],
     "wade": [
         "wadable",
         "wade",
@@ -154,6 +158,11 @@
     ],
     "wafture": [
         "wafture"
+    ],
+    "wag": [
+        "wagged",
+        "wagger",
+        "wagging"
     ],
     "wagang": [
         "wagang",
@@ -634,6 +643,14 @@
     "wampus": [
         "wampus"
     ],
+    "wan": [
+        "wanly",
+        "wanned",
+        "wanner",
+        "wanness",
+        "wannest",
+        "wanning"
+    ],
     "wanchancy": [
         "wanchancy"
     ],
@@ -780,6 +797,11 @@
     "wanze": [
         "wanze"
     ],
+    "wap": [
+        "wapped",
+        "wapping",
+        "waps"
+    ],
     "wapatoo": [
         "wapata",
         "wapato",
@@ -798,6 +820,11 @@
     ],
     "waqf": [
         "waqf"
+    ],
+    "war": [
+        "warless",
+        "warred",
+        "warring"
     ],
     "warabi": [
         "warabi"
@@ -1928,6 +1955,12 @@
     "wawaskeesh": [
         "wawaskeesh"
     ],
+    "wax": [
+        "waxed",
+        "waxes",
+        "waxing",
+        "waxlike"
+    ],
     "waxberry": [
         "waxberry"
     ],
@@ -2410,6 +2443,10 @@
     "weazened": [
         "weazened"
     ],
+    "web": [
+        "webbed",
+        "weblike"
+    ],
     "webbing": [
         "webbing"
     ],
@@ -2465,6 +2502,10 @@
     ],
     "webworm": [
         "webworm"
+    ],
+    "wed": [
+        "wedded",
+        "wedder"
     ],
     "weddellite": [
         "weddellite"
@@ -3073,6 +3114,13 @@
     ],
     "westwardly": [
         "westwardly"
+    ],
+    "wet": [
+        "wetly",
+        "wetness",
+        "wetted",
+        "wettest",
+        "wetting"
     ],
     "weta": [
         "weta"
@@ -4623,6 +4671,9 @@
     "whvs": [
         "whvs"
     ],
+    "why": [
+        "whys"
+    ],
     "whydah": [
         "whydah"
     ],
@@ -4849,6 +4900,9 @@
     ],
     "wifty": [
         "wifty"
+    ],
+    "wig": [
+        "wigging"
     ],
     "wigan": [
         "wigan"
@@ -5133,6 +5187,10 @@
         "wimple",
         "wimpled",
         "wimpling"
+    ],
+    "win": [
+        "winless",
+        "winnable"
     ],
     "wince": [
         "wince",
@@ -5818,6 +5876,11 @@
     "wirricow": [
         "wirricow"
     ],
+    "wis": [
+        "wised",
+        "wises",
+        "wising"
+    ],
     "wisdom": [
         "wisdom"
     ],
@@ -6191,6 +6254,9 @@
     "wives": [
         "wives"
     ],
+    "wiz": [
+        "wizzes"
+    ],
     "wizard": [
         "wizard"
     ],
@@ -6246,6 +6312,9 @@
     ],
     "wodge": [
         "wodge"
+    ],
+    "woe": [
+        "woes"
     ],
     "woebegone": [
         "woebegone",
@@ -6488,6 +6557,11 @@
     "womyn": [
         "womyn"
     ],
+    "won": [
+        "wonned",
+        "wonning",
+        "wons"
+    ],
     "wonder": [
         "wonder",
         "wondered",
@@ -6581,6 +6655,12 @@
     "wonton": [
         "wonton",
         "wontons"
+    ],
+    "woo": [
+        "wooed",
+        "wooer",
+        "wooing",
+        "woos"
     ],
     "wood": [
         "wood",
@@ -7391,6 +7471,10 @@
         "worthwhile",
         "worthwhileness"
     ],
+    "wot": [
+        "wotted",
+        "wotting"
+    ],
     "woubit": [
         "woubit"
     ],
@@ -7444,6 +7528,11 @@
     ],
     "woven": [
         "woven"
+    ],
+    "wow": [
+        "wowed",
+        "wowing",
+        "wows"
     ],
     "wowf": [
         "wowf"
@@ -7647,6 +7736,14 @@
     ],
     "wrfg": [
         "wrfg"
+    ],
+    "wry": [
+        "wried",
+        "wryer",
+        "wryest",
+        "wrying",
+        "wryly",
+        "wryness"
     ],
     "wrier": [
         "wrier"

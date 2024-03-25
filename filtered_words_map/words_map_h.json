@@ -438,6 +438,9 @@
         "haftarah",
         "haftorah"
     ],
+    "hag": [
+        "haggish"
+    ],
     "hagberry": [
         "hagberry"
     ],
@@ -1277,6 +1280,10 @@
     "halyard": [
         "halyard"
     ],
+    "ham": [
+        "hammed",
+        "hamming"
+    ],
     "hamada": [
         "hamada"
     ],
@@ -2082,6 +2089,10 @@
     ],
     "haori": [
         "haori"
+    ],
+    "hap": [
+        "happed",
+        "happing"
     ],
     "hapax": [
         "hapax"
@@ -2992,6 +3003,11 @@
     "hastula": [
         "hastula"
     ],
+    "hat": [
+        "hatless",
+        "hatted",
+        "hatting"
+    ],
     "hatable": [
         "hatable"
     ],
@@ -3345,6 +3361,11 @@
         "havocked",
         "havocking"
     ],
+    "haw": [
+        "hawed",
+        "hawing",
+        "haws"
+    ],
     "hawer": [
         "hawer"
     ],
@@ -3421,6 +3442,11 @@
     ],
     "hawthorn": [
         "hawthorn"
+    ],
+    "hay": [
+        "hayed",
+        "haying",
+        "hays"
     ],
     "haybird": [
         "haybird"
@@ -5242,6 +5268,11 @@
     ],
     "helzel": [
         "helzel"
+    ],
+    "hem": [
+        "hemmed",
+        "hemmer",
+        "hemming"
     ],
     "hemachate": [
         "hemachate"
@@ -7458,6 +7489,12 @@
     "hevea": [
         "hevea"
     ],
+    "hew": [
+        "hewed",
+        "hewer",
+        "hewing",
+        "hewn"
+    ],
     "hewettite": [
         "hewettite"
     ],
@@ -7466,6 +7503,12 @@
     ],
     "hewlet": [
         "hewlet"
+    ],
+    "hex": [
+        "hexed",
+        "hexer",
+        "hexes",
+        "hexing"
     ],
     "hexabiose": [
         "hexabiose"
@@ -7936,6 +7979,10 @@
     "hidlings": [
         "hidlings",
         "hidlins"
+    ],
+    "hie": [
+        "hied",
+        "hieing"
     ],
     "hielan": [
         "hielan",
@@ -8478,6 +8525,12 @@
     "hiortdahlite": [
         "hiortdahlite"
     ],
+    "hip": [
+        "hiply",
+        "hipper",
+        "hippest",
+        "hipping"
+    ],
     "hipberry": [
         "hipberry"
     ],
@@ -8994,6 +9047,11 @@
     "histrionism": [
         "histrionism"
     ],
+    "hit": [
+        "hitless",
+        "hitter",
+        "hitting"
+    ],
     "hitch": [
         "hitch",
         "hitched",
@@ -9074,8 +9132,14 @@
     "hmlt": [
         "hmlt"
     ],
+    "hmm": [
+        "hmmm"
+    ],
     "hndbk": [
         "hndbk"
+    ],
+    "ho": [
+        "hoes"
     ],
     "hoactzin": [
         "hoactzin"
@@ -9149,6 +9213,10 @@
         "hoaxer",
         "hoaxes",
         "hoaxing"
+    ],
+    "hob": [
+        "hobbed",
+        "hobbing"
     ],
     "hobbadehoy": [
         "hobbadehoy",
@@ -9321,6 +9389,11 @@
     "hodoscope": [
         "hodoscope"
     ],
+    "hoe": [
+        "hoed",
+        "hoeing",
+        "hoer"
+    ],
     "hoecake": [
         "hoecake"
     ],
@@ -9332,6 +9405,12 @@
     ],
     "hoernesite": [
         "hoernesite"
+    ],
+    "hog": [
+        "hogg",
+        "hogged",
+        "hogging",
+        "hogs"
     ],
     "hogan": [
         "hogan"
@@ -11296,6 +11375,10 @@
     "hooverize": [
         "hooverize"
     ],
+    "hop": [
+        "hopped",
+        "hops"
+    ],
     "hopak": [
         "hopak"
     ],
@@ -12041,6 +12124,15 @@
     "hostry": [
         "hostry"
     ],
+    "hot": [
+        "hotness",
+        "hots",
+        "hotted",
+        "hotter",
+        "hottest",
+        "hotting",
+        "hottish"
+    ],
     "hotbed": [
         "hotbed"
     ],
@@ -12760,6 +12852,14 @@
     "huffler": [
         "huffler"
     ],
+    "hug": [
+        "huggable",
+        "hugged",
+        "hugger",
+        "huggers",
+        "hugging",
+        "hugs"
+    ],
     "huge": [
         "huge",
         "hugely",
@@ -12881,6 +12981,11 @@
     ],
     "hulver": [
         "hulver"
+    ],
+    "hum": [
+        "hummable",
+        "hummed",
+        "humming"
     ],
     "human": [
         "human",
